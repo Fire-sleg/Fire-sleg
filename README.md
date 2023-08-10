@@ -1,7 +1,7 @@
 <h1 align='center'> Hi there 👋, I'm Oleksandr  👩‍💻 </h1>
 <h4 align='center'>I live in Lviv, Ukraine</h4>
 <hr>
-<h5>Languages and Tools</h5>
+<h3>Languages & Tools</h5>
 <p >
   
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;
@@ -12,7 +12,7 @@
 </p>
 
 <hr>
-<h5>Technologies & Frameworks</h5>
+<h3>Technologies & Frameworks</h5>
 <p>
     <img src="https://img.shields.io/badge/-ASP.NET-brightgreen?style=for-the-badge&logo=dotnet&logoColor=white&color=%2377216F"/>&nbsp;&nbsp;
     <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;

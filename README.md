@@ -1,4 +1,4 @@
-<h1 align='center'> Hi there 👋, I'm Oleksandr  👩‍💻 </h1>
+<h1 align='center'> Hi there 👋, I'm Oleksandr  👨‍💻 </h1>
 <h4 align='center'>I live in Lviv, Ukraine</h4>
 <hr>
 <h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
